@@ -8,6 +8,6 @@ ReactDOM.createRoot(document.querySelector('#main')).render(
     
     <GifExpectApp/>
 
-    </React.StrictMode>
+    </React.StrictMode> 
 )
 
