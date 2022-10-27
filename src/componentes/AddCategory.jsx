@@ -11,7 +11,6 @@ export const AddCategory = ({onNewCategory})=>{
         event.preventDefault();
        
         if (inputValue.length <= 1)return;
-        //onNewCategory(categories =>[inputValue,...categories]);
         onNewCategory(inputValue);
         setinputValue('');
     }
