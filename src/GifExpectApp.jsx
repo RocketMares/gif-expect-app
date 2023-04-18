@@ -11,7 +11,7 @@ export const GifExpectApp =()=>{
     return(
         <>
 
-        <h1>Gifs</h1>
+        <h1>Gifs adrian</h1>
  
         <AddCategory 
         onNewCategory ={(value)=> OnAddCategory(value) }    
